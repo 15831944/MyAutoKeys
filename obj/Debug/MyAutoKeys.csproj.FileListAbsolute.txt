@@ -1,0 +1,9 @@
+D:\code\MyAutoKeys\MyAutoKeys\bin\Debug\MyAutoKeys.exe.config
+D:\code\MyAutoKeys\MyAutoKeys\bin\Debug\MyAutoKeys.exe
+D:\code\MyAutoKeys\MyAutoKeys\bin\Debug\MyAutoKeys.pdb
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.csprojResolveAssemblyReference.cache
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.Form1.resources
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.Properties.Resources.resources
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.csproj.GenerateResource.Cache
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.exe
+D:\code\MyAutoKeys\MyAutoKeys\obj\Debug\MyAutoKeys.pdb
